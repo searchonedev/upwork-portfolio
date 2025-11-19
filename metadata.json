@@ -1,0 +1,8 @@
+{
+  "name": "VisionaryAI Portfolio",
+  "description": "A high-end portfolio showcasing AI-powered image and video generation capabilities using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
